@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "프로젝트 생성하기",
+      "done": false
+    },
+    {
+      "id": 2,
+      "text": "컴포넌트 스타일링하기",
+      "done": true
+    },
+    {
+      "text": "redux 마무리",
+      "done": true,
+      "id": 4
+    },
+    {
+      "text": "리팩토링",
+      "done": true,
+      "id": 5
+    }
+  ]
+}
